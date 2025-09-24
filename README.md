@@ -43,7 +43,7 @@ O sistema abrangerá:
 ## 👥 Equipe Responsável
 - Murilo Luiz Inácio de Souza – RA 2400933 
 - Tulio da Silva Costa – RA 2302336 
-- Vinicius Ferreira de Freiras – RA 2403865 
+- Vinicius Ferreira de Freitas – RA 2403865 
 ---
 
 
