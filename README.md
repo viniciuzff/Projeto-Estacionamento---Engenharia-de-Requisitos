@@ -1,19 +1,19 @@
-# 🚗 Sistema de Estacionamento MTV
+# 🚗 Sistema de Estacionamento 
 
 ## 📖 Sobre o Projeto
-O **Sistema de Estacionamento MTV** foi desenvolvido como parte de um projeto acadêmico no curso de Análise e Desenvolvimento de Sistemas.  
+O **Sistema de Estacionamento foi desenvolvido como parte de um projeto acadêmico no curso de Análise e Desenvolvimento de Sistemas.  
 Ele tem como objetivo oferecer uma solução prática e eficiente para o gerenciamento de estacionamentos, substituindo controles manuais por um sistema automatizado.
 
 ---
 
 ## 🎯 Justificativa
 Nos grandes centros urbanos, a administração de estacionamentos ainda é, em muitos casos, manual e sujeita a falhas.  
-O projeto **MTV** busca otimizar o controle de vagas, reduzir erros operacionais e proporcionar uma experiência mais rápida e segura para clientes e administradores.
+O projeto busca otimizar o controle de vagas, reduzir erros operacionais e proporcionar uma experiência mais rápida e segura para clientes e administradores.
 
 ---
 
 ## 🏆 Objetivo Geral
-Desenvolver um sistema de gerenciamento para o **Estacionamento MTV**, permitindo controle de vagas, registro de entrada e saída de veículos e relatórios administrativos.
+Desenvolver um sistema de gerenciamento, permitindo controle de vagas, registro de entrada e saída de veículos e relatórios administrativos.
 
 ---
 
